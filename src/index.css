@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  background: linear-gradient(to bottom right, #7c2d12, #581c87, #1e3a8a);
+  min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+html {
+  background: linear-gradient(to bottom right, #7c2d12, #581c87, #1e3a8a);
+}
+
+#root {
+  min-height: 100vh;
+}
