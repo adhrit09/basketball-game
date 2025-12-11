@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basketball-game/static/css/main.6d20e516.css",
+    "main.js": "/basketball-game/static/js/main.6af41811.js",
+    "static/js/453.0cc4ea03.chunk.js": "/basketball-game/static/js/453.0cc4ea03.chunk.js",
+    "index.html": "/basketball-game/index.html",
+    "main.6d20e516.css.map": "/basketball-game/static/css/main.6d20e516.css.map",
+    "main.6af41811.js.map": "/basketball-game/static/js/main.6af41811.js.map",
+    "453.0cc4ea03.chunk.js.map": "/basketball-game/static/js/453.0cc4ea03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d20e516.css",
+    "static/js/main.6af41811.js"
+  ]
+}
